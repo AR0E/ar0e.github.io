@@ -10,7 +10,9 @@ hell of a lot of work for someone that didn't quite know what a transistor was a
 The whole thing is analog; the key matrix, controller, oscillators, filters, VCAs, you name it. The whole
 project is described in detail in my actual paper, which [I'm linking here as a PDF](files/TCCETEC2022.pdf) along with some images:
 
-
+![The BetterBoog in all its shining glory](/files/images/AR1photo2.jpg)
+![There's an Amber NEON FLEX behind the acrylic panel](/files/images/AR1photo2.jpg)
+![The inside is demonic in nature, but I blame inexperience](/files/images/AR1photo2.jpg)
 
 I have yet to actually record it working since the pre-amp broke shortly before I switched cities,
 so that's terribly annoying!
