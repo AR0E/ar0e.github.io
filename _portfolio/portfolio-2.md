@@ -1,6 +1,6 @@
 ---
 title: "AR1: A 250cc superbike"
-excerpt: "Competition motorcycle for MotoStudent 1<br/><img src='/images/500x300.png'>"
+excerpt: "Competition motorcycle for MotoStudent 1<br/><img src='/files/images/AR1photo1.jpg'>"
 collection: portfolio
 ---
 
