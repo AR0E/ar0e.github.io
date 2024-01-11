@@ -8,3 +8,9 @@ When it originally came out I followed the [*Ray Tracing in One Weekend*](https:
 have been making a few tiny tweaks to the path tracer. It certainly is no *Hyperion* or
 a dignified light transport researcher worthy thing, but it renders meshes and it has
 nice enough tonemapping:
+
+![Cornell Box](/files/images/AR1photo2.jpg)
+
+![A greek statue render](/files/images/AR1photo2.jpg)
+
+![Oooh materials!](/files/images/AR1photo2.jpg)
