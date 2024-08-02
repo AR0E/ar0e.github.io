@@ -21,6 +21,18 @@ I have a [CV](https://ar0e.github.io/files/CV1.pdf), that's where you can see th
 I have a [portfolio](https://ar0e.github.io/portfolio/) where I share some of my major projects, and 
 I got a [blog](https://ar0e.github.io/year-archive/) for endless rambling. That's all.
 
-In possible doubts: yes, I've had two other sites before this one, but I thought it was the decent thing
-to completely overhaul myself from old Wordpress to github pages at once and start over, rather
-than transferring over and such and such.
+Here's a resource list:
+
+* My [definitive reading list]()
+* My [resource list for geometry]()
+* My [resource list for deep learning]()
+* My [notes on geometric calculus]() based on Ian Bell's original work
+* My [notes on quantum theory]()
+* My [notes on classical mechanics]()
+
+A non-exhaustive "exercise solutions" list I've started to make. I feel as if too
+much work has no actual worked out solutions for beginning students, so I'm making
+an effort to correct that.
+
+* 
+
