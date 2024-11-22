@@ -43,7 +43,6 @@ redirect_from:
     
 ## Geometry
 - **Articles**
-  - Cohomology Fractals - Bachman, Segerman
   - Differential Geometry of Music Perception - Himpel
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
@@ -64,6 +63,8 @@ redirect_from:
   - [Exterior Calculus in Graphics for Beginners - Wang, Chern](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
   - [Topics in Spectral Geometry - Levitin, Mangoubi, Polterovich](https://www.michaellevitin.net/Book/TSG230529.pdf)
   - Geometric Fundamentals of Robotics - J. M. Selig
+  - Morse Theory, a visual guide - Gilles Castel
+  - [Spin Geometry - Christian Bär](https://www.math.uni-potsdam.de/fileadmin/user_upload/Prof-Geometrie/Dokumente/Lehre/Veranstaltungen/SS11/spingeo.pdf)
 
 - http://roice3.org/ 
 
@@ -99,6 +100,11 @@ redirect_from:
   - Dark (and Bright) Secrets of RF Design
 
 - **Machine Learning**
+  - [Mathematics of Neural Networks - Bart M. N. Smets](https://arxiv.org/pdf/2403.04807)
+  - [Statistical Optimal Transport - Chewi, Rigollet, Niles-Weed](https://arxiv.org/pdf/2407.18163)
+  - [What are embeddings?](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf)
+  - [The Monge-Ampère equation and its link to optimal transportation](https://arxiv.org/pdf/1310.6167)
+  - [Beyond Linear Response: Equivalence between Thermodynamic Geometry and Optimal Transport](https://arxiv.org/pdf/2404.01286)
   -
 
 - **Computational Geometry**
@@ -115,9 +121,9 @@ redirect_from:
   - Principal Component Analysis in CGAL - Gupta, Alliez, Pion
   - Raymarching Thurston Geometries - Coulon, Matsumoto
   - Representation of surfaces using spinor operators - Jayme Vaz
-  - Statistical Optimal Transport - Chewi, Rigollet
   - Surface Multigrid via Intrinsic Prolongation - Liu, Zhang, Jacobson
   - Homology and Cohomology Computation in Finite Element Modeling - Pellinkka, Geuzaine
+  - Laplace and Dirac Operators on Graphs - Casiday, Contreras
 
   - **CAD Specific**
     - The NURBS Books - Piegl, Tiller
@@ -168,6 +174,9 @@ redirect_from:
   - [Otaku Engagements: Subucultural Appropriation of Science and Technology - Lawrence Eng](https://www.proquest.com/openview/8e214f5b82e0c3a91f60e8d29696f577/1?pq-origsite=gscholar&cbl=18750&diss=y)
   - The Matterhorn Lithographs of 1865, Gustavo Doré - Alan Lyall
 
+  - [Cohomology fractals](https://arxiv.org/pdf/2002.00239)
+  - [Algebraic Number Starscapes](https://arxiv.org/pdf/2008.07655)
+  - [Into the Portal: Directable Fractal Self-Similarity - Schor, Kim](https://alexaschor.com/into-the-portal/files/into_the_portal_smaller.pdf)
   - [Rick Bradford's page](http://rickbradford.co.uk/)
   - A History and Philosophy of Fluid Mechanics - Tokaty
   - [Arrakis' climate model](http://climatearchive.org/dune.html)
