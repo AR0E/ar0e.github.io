@@ -8,15 +8,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
-Over the years me and some colleagues have collected documents
-and resources we call "essential", sometimes it's six page papers
-that change our perspective or some idiotic but nonetheless
-important niche applet. Here is *The List*.
-
-# Useful Resources
-
 ## Physics
-  - Articles
+  - **Articles**
     - [John Baez's page](https://math.ucr.edu/home/baez/)
     - The Reason for Antiparticles - Richard P. Feynman
     - What is Spin? - Hans C. Ohanian
@@ -30,7 +23,7 @@ important niche applet. Here is *The List*.
     - An Introduction to Spontaneous Symmetry Breaking - Beekman, Rademaker, Wezel
     - Possible Kinematics - Bacry, Levy-Leblond
   
-  - Books
+  - **Books**
     - The Tragicomical History of Thermodynamics - C. Truesdell
     - Gravitation - Wheeler, Thorne, Misner
     - A Journey into Gravity and Spacetime - Wheeler
@@ -43,7 +36,7 @@ important niche applet. Here is *The List*.
     - Fly by Night Physics - A. Zee
     
 ## Geometry
-- Articles
+- **Articles**
   - Cohomology Fractals - Bachman, Segerman
   - Differential Geometry of Music Perception - Himpel
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
@@ -51,7 +44,7 @@ important niche applet. Here is *The List*.
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
 
-- Books
+- **Books**
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
@@ -73,6 +66,7 @@ important niche applet. Here is *The List*.
 ## The Computer 
 
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
+- [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
@@ -83,16 +77,15 @@ important niche applet. Here is *The List*.
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
 
-- Electronics
+- **Electronics**
   - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
   - Electrons and Holes - William Shockley
     - Theory of the Work Functions of Monovalent Metals - Wigner, Bardeen
   - Jim Williams
   - Leach Legacy
 
-- Computational Geometry
+- **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
-  - The NURBS Books - Piegl, Tiller
   - Foundations of Game Engine Development (I and II) - Eric Lengyel
   - Polygon Mesh Processing - Botsch, Kobbelt
   - Discrete Differential Forms for Computational Modeling - Desbrun, Kanso, Tong
@@ -108,7 +101,11 @@ important niche applet. Here is *The List*.
   - Statistical Optimal Transport - Chewi, Rigollet
   - Surface Multigrid via Intrinsic Prolongation - Liu, Zhang, Jacobson
   - Homology and Cohomology Computation in Finite Element Modeling - Pellinkka, Geuzaine
-  - 
+
+  - **CAD Specific**
+    - The NURBS Books - Piegl, Tiller
+    - Algorithms for geometrical operations with NURBS surfaces - Gernot Beer
+
 
 - [POC.GTFO](https://github.com/angea/pocorgtfo)
   -[POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
@@ -118,7 +115,7 @@ important niche applet. Here is *The List*.
 - [The Langauge Machine, a toolkit for language and grammar - Peri Hankey](https://languagemachine.sourceforge.net/)
 - [Graph All The Things](https://graphallthethings.com/posts/)
 
-- Static analysis and compilers
+- **Static analysis and compilers**
   - [Xavier Leroy - Formal verification and compiler design](https://xavierleroy.org/)
   - [Compiler Optimization in a Language you Can Understand](https://sbaziotis.com/compilers/compiler-opt.html)
   - [SIMPLE: A language-independent tree IR](https://gcc.gnu.org/legacy-ml/gcc/2002-01/msg00574.html)
