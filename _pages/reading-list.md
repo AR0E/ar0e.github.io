@@ -63,6 +63,7 @@ redirect_from:
   - Complex Analysis, the geometric viewpoint - Steven G. Krantz
   - [Exterior Calculus in Graphics for Beginners - Wang, Chern](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
   - [Topics in Spectral Geometry - Levitin, Mangoubi, Polterovich](https://www.michaellevitin.net/Book/TSG230529.pdf)
+  - Geometric Fundamentals of Robotics - J. M. Selig
 
 - http://roice3.org/ 
 
@@ -97,6 +98,9 @@ redirect_from:
   - Leach Legacy
   - Dark (and Bright) Secrets of RF Design
 
+- **Machine Learning**
+  -
+
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
   - Foundations of Game Engine Development (I and II) - Eric Lengyel
@@ -119,6 +123,14 @@ redirect_from:
     - The NURBS Books - Piegl, Tiller
     - Curves and Surfaces for CAGD - Gerald Farin
     - Algorithms for geometrical operations with NURBS surfaces - Gernot Beer
+    - Boundary Representation Modelling Techniques - Ian Stroud
+
+    - Incorporating Sharp Features in General Solid Sweep Framework - Adsul, Machchhar, Sohoni
+    - A Computational Framework for Boundary Representation of Solid Sweeps - Adsul, Machhar, Sohoni
+
+    - Algorithms for Blending Surface Generation - Peter Charles Filkins
+    - Fast computation of local minimal distances between CAD models for dynamics simulation - Crozet, Merlhiot
+    - Recognition of depression and protrusion features on BREP models based on virtual loops - Lai
 
 
 - [POC.GTFO](https://github.com/angea/pocorgtfo)
@@ -130,6 +142,7 @@ redirect_from:
 - [Graph All The Things](https://graphallthethings.com/posts/)
 
 - **Static analysis and compilers**
+  - [John Cyphert's page on algebraic program analysis](https://pages.cs.wisc.edu/~jcyphert/)
   - [Xavier Leroy - Formal verification and compiler design](https://xavierleroy.org/)
   - [Compiler Optimization in a Language you Can Understand](https://sbaziotis.com/compilers/compiler-opt.html)
   - [SIMPLE: A language-independent tree IR](https://gcc.gnu.org/legacy-ml/gcc/2002-01/msg00574.html)
@@ -149,7 +162,11 @@ redirect_from:
   - The Ideologies of Theory - Fredric Jameson
   - Branding Terror - Beifuss, Bellini
   - How to Blow Up a Pipeline - Andreas Malm
+  - [Ur-Fascim - Umberto Eco](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
   - The poems of Jhenny Zang
+
+  - [Otaku Engagements: Subucultural Appropriation of Science and Technology - Lawrence Eng](https://www.proquest.com/openview/8e214f5b82e0c3a91f60e8d29696f577/1?pq-origsite=gscholar&cbl=18750&diss=y)
+  - The Matterhorn Lithographs of 1865, Gustavo Doré - Alan Lyall
 
   - [Rick Bradford's page](http://rickbradford.co.uk/)
   - A History and Philosophy of Fluid Mechanics - Tokaty
