@@ -24,12 +24,6 @@ I got a [blog](https://ar0e.github.io/year-archive/) for endless rambling. That'
 Here's a resource list:
 
 * My [definitive reading list](https://ar0e.github.io/reading-list/)
-* My [resource list for geometry]()
-* My [resource list for deep learning]()
-
-* My [notes on geometric calculus]() based on Ian Bell's original work
-* My [notes on quantum theory]()
-* My [notes on classical mechanics]()
 
 A non-exhaustive "exercise solutions" list I've started to make. I feel as if too
 much work has no actual worked out solutions for beginning students, so I'm making
