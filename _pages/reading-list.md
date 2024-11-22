@@ -17,6 +17,7 @@ important niche applet. Here is *The List*.
 
 # Physics
   - Articles
+    - [John Baez's page](https://math.ucr.edu/home/baez/)
     - The Reason for Antiparticles - Richard P. Feynman
     - What is Spin? - Hans C. Ohanian
     - Skateboard flips and topological tricks in SU(2)
@@ -25,8 +26,12 @@ important niche applet. Here is *The List*.
     - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
     - Hamiltonian description of the ideal fluid - P. J. Morrison
     - [Feynman's Fabulous Formula](https://golem.ph.utexas.edu/category/2015/06/feynmans_fabulous_formula.html)
+    - An Elementary Introduction to the Geometry of Quantum States with Pictures - Avron, Kenneth
+    - An Introduction to Spontaneous Symmetry Breaking - Beekman, Rademaker, Wezel
+    - Possible Kinematics - Bacry, Levy-Leblond
   
   - Books
+    - The Tragicomical History of Thermodynamics - C. Truesdell
     - Gravitation - Wheeler, Thorne, Misner
     - A Journey into Gravity and Spacetime - Wheeler
     - Special Relativity in General Frames - Éric Gourgoulhon
@@ -35,6 +40,7 @@ important niche applet. Here is *The List*.
     - Geometric Mechanics (Part I and II) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Philsophical Problems of Space and Time - Adolf Grünbaum
+    - Fly by Night Physics - A. Zee
     
 # Geometry
 - Articles
@@ -43,6 +49,7 @@ important niche applet. Here is *The List*.
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
+  - A pictorial introduction to differential geometry - Jonathan Gratus
 
 - Books
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
@@ -65,7 +72,13 @@ important niche applet. Here is *The List*.
   
 # The Computer 
 
+- [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
+- Computer Power and Human Reason - Joseph Weizenbaum
+- The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
+- Types and Programming Languages - Pierce
+- Advanced Topics in Types and Programming Languages - Pierce
+- CODE - Charles Petzold
 
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
@@ -73,10 +86,13 @@ important niche applet. Here is *The List*.
 - Electronics
   - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
   - Electrons and Holes - William Shockley
+    - Theory of the Work Functions of Monovalent Metals - Wigner, Bardeen
   - Jim Williams
   - Leach Legacy
 
 - Computational Geometry
+  - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
+  - The NURBS Books - Piegl, Tiller
   - Foundations of Game Engine Development (I and II) - Eric Lengyel
   - Polygon Mesh Processing - Botsch, Kobbelt
   - Discrete Differential Forms for Computational Modeling - Desbrun, Kanso, Tong
@@ -109,7 +125,6 @@ important niche applet. Here is *The List*.
   - [CS 6120: Advanced Compilers - Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2023fa/)
   
 -[OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
-- The Art of Computer Programming (I and II) - Donald E. Knuth
 
 # Misc
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
@@ -118,7 +133,7 @@ important niche applet. Here is *The List*.
   - A History and Philosophy of Fluid Mechanics - Tokaty
   - The poems of Jhenny Zang
   - [Arrakis' climate model](http://climatearchive.org/dune.html)
-
+  - The Great Physicists from Galileo to Einstein - George Gamow
 
 
 
