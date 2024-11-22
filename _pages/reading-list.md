@@ -15,41 +15,83 @@ important niche applet. Here is *The List*.
 
 ## Useful Resources
 
-.
-├── **Physics**/
-│   ├── Articles/
-│   │   ├── **[The Reason for Antiparticles - Richard P. Feynman]()**
-│   │   ├── **[What is Spin? - Hans C. Ohanian]()**
-│   │   ├── **[Skateboard flips and topological tricks in SU(2)]()**
-│   │   ├── **[Information, physics, quantum: the search for link - John A. Wheeler]()**
-│   │   ├── **[Bringing Home the Atomic World - N. D. Mermin]()**
-│   │   ├── **[Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat]()**
-│   │   └── **[Hamiltonian description of the ideal fluid - P. J. Morrison]**
-│   └── Books/
-│       ├── **[Gravitation - Wheeler, Thorne, Misner]()**
-│       ├── **[A Journey into Gravity and Spacetime - Wheeler]()**
-│       ├── **[Special Relativity in General Frames - Éric Gourgoulhon](https://example.com)**
-│       ├── **[Entropic Physics - Ariel Caticha]()**
-│       ├── **[Quantum Theory: Concepts and Methods - Asher Peres]()**
-│       ├── **[Geometric Mechanics (Part I and II) - Darryl D. Holm]()**
-│       └── **[Philsophical Problems of Space and Time - Adolf Grünbaum]()**
-├── Geometry/
-│   ├── **[Cohomology Fractals - Bachman, Segerman]()**
-│   ├── **[Differential Geometry of Music Perception - Himpel]()**
-│   ├── **[Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw](https://example.com)**
-│   ├── **[Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson]()**
-│   ├── **[A Topological Picturebook - George K. Francis]()**
-│   ├── **[How Surfaces Intersect in Space - J. Scott Carter]()**
-│   ├── **[From Geometry to Topology - H. Graham Flegg]()**
-│   ├── **[Geometric Measure Theory - Frank Morgan]()**
-│   ├── **[An Illustrated Introduction to Topology and Homotopy - Sasho Kalajdzieveski]()**
-│   ├── **[Visual Group Theory - Nathan Carter]()**
-│   ├── **[Complex Analysis, the geometric viewpoint - Steven G. Krantz]()**
-│   └── **[Exterior Calculus in Graphics for Beginners - Wang, Chern]()**
-├── Essays/
-│   ├── **[The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)**
-│   └── **[Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)**
-└── The Computer
+# Physics
+  - Articles
+    - The Reason for Antiparticles - Richard P. Feynman
+    - What is Spin? - Hans C. Ohanian
+    - Skateboard flips and topological tricks in SU(2)
+    - Information, physics, quantum: the search for link - John A. Wheeler
+    - Bringing Home the Atomic World - N. D. Mermin
+    - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
+    - Hamiltonian description of the ideal fluid - P. J. Morrison
+    - [Feynman's Fabulous Formula](https://golem.ph.utexas.edu/category/2015/06/feynmans_fabulous_formula.html)
+  
+  - Books
+    - Gravitation - Wheeler, Thorne, Misner
+    - A Journey into Gravity and Spacetime - Wheeler
+    - Special Relativity in General Frames - Éric Gourgoulhon
+    - Entropic Physics - Ariel Caticha
+    - Quantum Theory: Concepts and Methods - Asher Peres
+    - Geometric Mechanics (Part I and II) - Darryl D. Holm
+    - Philsophical Problems of Space and Time - Adolf Grünbaum
+    
+# Geometry
+- Articles
+  - Cohomology Fractals - Bachman, Segerman
+  - Differential Geometry of Music Perception - Himpel
+  - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
+
+- Books
+  - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
+  - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
+  - A Topological Picturebook - George K. Francis
+  - How Surfaces Intersect in Space - J. Scott Carter
+  - From Geometry to Topology - H. Graham Flegg
+  - Geometric Measure Theory - Frank Morgan
+  - An Illustrated Introduction to Topology and Homotopy - Sasho Kalajdzieveski
+  - Visual Group Theory - Nathan Carter
+  - Complex Analysis, the geometric viewpoint - Steven G. Krantz
+  - Exterior Calculus in Graphics for Beginners - Wang, Chern
+
+- http://roice3.org/ 
+
+# Essays
+  - [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
+  - [Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)
+  - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
+  
+# The Computer 
+
+- Electronics
+  - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
+  - Electrons and Holes - William Shockley
+  - 
+
+- [POC||GTFO](https://github.com/angea/pocorgtfo)
+  -[POC||GTFO Archives](https://pocorgtfo.hacke.rs/)
+- [TMP.OUT](https://tmpout.sh/)
+
+- [A Neighborhood of Infinity](http://blog.sigfpe.com/)
+- [The Langauge Machine, a toolkit for language and grammar - Peri Hankey](https://languagemachine.sourceforge.net/)
+- [Graph All The Things](https://graphallthethings.com/posts/)
+
+- Static analysis and compilers
+  - [Xavier Leroy - Formal verification and compiler design](https://xavierleroy.org/)
+  - [Compiler Optimization in a Language you Can Understand](https://sbaziotis.com/compilers/compiler-opt.html)
+  - [SIMPLE: A language-independent tree IR](https://gcc.gnu.org/legacy-ml/gcc/2002-01/msg00574.html)
+  - [CS 6120: Advanced Compilers - Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2023fa/)
+  
+-[OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
+
+# Misc
+  - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
+  - [Rick Bradford's page](http://rickbradford.co.uk/)
+  - Musicophilia - Oliver Sacks
+  - A History and Philosophy of Fluid Mechanics - Tokaty
+  - The poems of Jhenny Zang
+  - [Arrakis' climate model](http://climatearchive.org/dune.html)
+
+
 
 
 
