@@ -13,9 +13,9 @@ and resources we call "essential", sometimes it's six page papers
 that change our perspective or some idiotic but nonetheless
 important niche applet. Here is *The List*.
 
-## Useful Resources
+# Useful Resources
 
-# Physics
+## Physics
   - Articles
     - [John Baez's page](https://math.ucr.edu/home/baez/)
     - The Reason for Antiparticles - Richard P. Feynman
@@ -42,7 +42,7 @@ important niche applet. Here is *The List*.
     - Philsophical Problems of Space and Time - Adolf Grünbaum
     - Fly by Night Physics - A. Zee
     
-# Geometry
+## Geometry
 - Articles
   - Cohomology Fractals - Bachman, Segerman
   - Differential Geometry of Music Perception - Himpel
@@ -65,12 +65,12 @@ important niche applet. Here is *The List*.
 
 - http://roice3.org/ 
 
-# Essays
+## Essays
   - [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
   - [Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)
   - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
   
-# The Computer 
+## The Computer 
 
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - Computer Power and Human Reason - Joseph Weizenbaum
@@ -126,7 +126,7 @@ important niche applet. Here is *The List*.
   
 -[OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
 
-# Misc
+## Misc
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
   - [Rick Bradford's page](http://rickbradford.co.uk/)
   - Musicophilia - Oliver Sacks
