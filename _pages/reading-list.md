@@ -67,7 +67,7 @@ important niche applet. Here is *The List*.
 
 - Compact Data Structures - Navarro
 
-- How Futile are Mindless Assessments of Roundoff in Floating-Point Computation?
+- [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
 
 - Electronics
@@ -91,6 +91,8 @@ important niche applet. Here is *The List*.
   - Representation of surfaces using spinor operators - Jayme Vaz
   - Statistical Optimal Transport - Chewi, Rigollet
   - Surface Multigrid via Intrinsic Prolongation - Liu, Zhang, Jacobson
+  - Homology and Cohomology Computation in Finite Element Modeling - Pellinkka, Geuzaine
+  - 
 
 - [POC.GTFO](https://github.com/angea/pocorgtfo)
   -[POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
