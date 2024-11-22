@@ -29,5 +29,3 @@ A non-exhaustive "exercise solutions" list I've started to make. I feel as if to
 much work has no actual worked out solutions for beginning students, so I'm making
 an effort to correct that.
 
-* 
-

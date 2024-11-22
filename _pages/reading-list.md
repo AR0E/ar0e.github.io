@@ -33,6 +33,7 @@ important niche applet. Here is *The List*.
     - Entropic Physics - Ariel Caticha
     - Quantum Theory: Concepts and Methods - Asher Peres
     - Geometric Mechanics (Part I and II) - Darryl D. Holm
+    - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Philsophical Problems of Space and Time - Adolf Grünbaum
     
 # Geometry
@@ -40,6 +41,8 @@ important niche applet. Here is *The List*.
   - Cohomology Fractals - Bachman, Segerman
   - Differential Geometry of Music Perception - Himpel
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
+  - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
+  - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
 
 - Books
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
@@ -62,13 +65,35 @@ important niche applet. Here is *The List*.
   
 # The Computer 
 
+- Compact Data Structures - Navarro
+
+- How Futile are Mindless Assessments of Roundoff in Floating-Point Computation?
+- What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
+
 - Electronics
   - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
   - Electrons and Holes - William Shockley
-  - 
+  - Jim Williams
+  - Leach Legacy
 
-- [POC||GTFO](https://github.com/angea/pocorgtfo)
-  -[POC||GTFO Archives](https://pocorgtfo.hacke.rs/)
+- Computational Geometry
+  - Foundations of Game Engine Development (I and II) - Eric Lengyel
+  - Polygon Mesh Processing - Botsch, Kobbelt
+  - Discrete Differential Forms for Computational Modeling - Desbrun, Kanso, Tong
+  - Hodge Laplacians on Graphs - Lim
+  - Intrinsic and Extrinsic Operators for Shape Analysis - Wang, Solomon
+  - [The Matrix Cookbook](http://matrixcookbook.com)
+  - On exterior calculus and curvature in piecewise-flat manifolds - McDonald, Miller
+  - Discrete Differential Operators on Polygonal Meshes - De Goes, Desbrun
+  - Computing Discrete Minimal Surfaces and Their Conjugates - Pinkall, Polthier
+  - Principal Component Analysis in CGAL - Gupta, Alliez, Pion
+  - Raymarching Thurston Geometries - Coulon, Matsumoto
+  - Representation of surfaces using spinor operators - Jayme Vaz
+  - Statistical Optimal Transport - Chewi, Rigollet
+  - Surface Multigrid via Intrinsic Prolongation - Liu, Zhang, Jacobson
+
+- [POC.GTFO](https://github.com/angea/pocorgtfo)
+  -[POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
 - [TMP.OUT](https://tmpout.sh/)
 
 - [A Neighborhood of Infinity](http://blog.sigfpe.com/)
@@ -82,6 +107,7 @@ important niche applet. Here is *The List*.
   - [CS 6120: Advanced Compilers - Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2023fa/)
   
 -[OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
+- The Art of Computer Programming (I and II) - Donald E. Knuth
 
 # Misc
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
