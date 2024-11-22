@@ -16,6 +16,7 @@ redirect_from:
     - Skateboard flips and topological tricks in SU(2)
     - Information, physics, quantum: the search for link - John A. Wheeler
     - Bringing Home the Atomic World - N. D. Mermin
+    - Notes on Quantum Mechanics - David V. Schroeder
     - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
     - Hamiltonian description of the ideal fluid - P. J. Morrison
     - [Feynman's Fabulous Formula](https://golem.ph.utexas.edu/category/2015/06/feynmans_fabulous_formula.html)
@@ -25,14 +26,19 @@ redirect_from:
   
   - **Books**
     - The Tragicomical History of Thermodynamics - C. Truesdell
+
     - Gravitation - Wheeler, Thorne, Misner
     - A Journey into Gravity and Spacetime - Wheeler
     - Special Relativity in General Frames - Éric Gourgoulhon
+    - Philsophical Problems of Space and Time - Adolf Grünbaum
+    - [Reflections on Relativity - Kevin Brown](https://www.mathpages.com/rr/rrtoc.htm)
+
     - Entropic Physics - Ariel Caticha
     - Quantum Theory: Concepts and Methods - Asher Peres
+    - Quantum Theory: A Wide Spectrum - E. B. Manoukian
+
     - Geometric Mechanics (Part I and II) - Darryl D. Holm
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
-    - Philsophical Problems of Space and Time - Adolf Grünbaum
     - Fly by Night Physics - A. Zee
     
 ## Geometry
@@ -43,6 +49,7 @@ redirect_from:
   - A Beginner’s Guide to Homological Algebra - Eskenazi, Vauclain, You, Murugadoss
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
+  - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
 
 - **Books**
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
@@ -54,7 +61,8 @@ redirect_from:
   - An Illustrated Introduction to Topology and Homotopy - Sasho Kalajdzieveski
   - Visual Group Theory - Nathan Carter
   - Complex Analysis, the geometric viewpoint - Steven G. Krantz
-  - Exterior Calculus in Graphics for Beginners - Wang, Chern
+  - [Exterior Calculus in Graphics for Beginners - Wang, Chern](https://stephaniewang.page/files/ECIG_notes_v1.00.pdf)
+  - [Topics in Spectral Geometry - Levitin, Mangoubi, Polterovich](https://www.michaellevitin.net/Book/TSG230529.pdf)
 
 - http://roice3.org/ 
 
@@ -65,14 +73,18 @@ redirect_from:
   
 ## The Computer 
 
+- [Structure and Interpretation of Computer Programs - Abelson, Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
-- Types and Programming Languages - Pierce
-- Advanced Topics in Types and Programming Languages - Pierce
 - CODE - Charles Petzold
+
+- **Types and such**
+  - Types and Programming Languages - Pierce
+  - Advanced Topics in Types and Programming Languages - Pierce
+  - Type Invariants and Ghost Code in Rust Verification with Creusot
 
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
@@ -83,6 +95,7 @@ redirect_from:
     - Theory of the Work Functions of Monovalent Metals - Wigner, Bardeen
   - Jim Williams
   - Leach Legacy
+  - Dark (and Bright) Secrets of RF Design
 
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
@@ -104,6 +117,7 @@ redirect_from:
 
   - **CAD Specific**
     - The NURBS Books - Piegl, Tiller
+    - Curves and Surfaces for CAGD - Gerald Farin
     - Algorithms for geometrical operations with NURBS surfaces - Gernot Beer
 
 
@@ -120,18 +134,31 @@ redirect_from:
   - [Compiler Optimization in a Language you Can Understand](https://sbaziotis.com/compilers/compiler-opt.html)
   - [SIMPLE: A language-independent tree IR](https://gcc.gnu.org/legacy-ml/gcc/2002-01/msg00574.html)
   - [CS 6120: Advanced Compilers - Adrian Sampson](https://www.cs.cornell.edu/courses/cs6120/2023fa/)
+  - [Let's Build a Compiler - Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
+  - [Michael Shulman's notes page](https://home.sandiego.edu/~shulman/papers/index.html)
+  - [ASAP: As Static As Possible memory management - R. L. Proust](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-908.pdf)
+  - [Superoptimizer - A Look at the Smallest Program](https://courses.cs.washington.edu/courses/cse501/15sp/papers/massalin.pdf)
   
 -[OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
 
 ## Misc
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
-  - [Rick Bradford's page](http://rickbradford.co.uk/)
   - Musicophilia - Oliver Sacks
-  - A History and Philosophy of Fluid Mechanics - Tokaty
+  - COLLAPSE: The Fall of the Soviet Union - Vladislav M. Zubok
+  - Late Victorian Holocausts - Mike Davis
+  - The Ideologies of Theory - Fredric Jameson
+  - Branding Terror - Beifuss, Bellini
+  - How to Blow Up a Pipeline - Andreas Malm
   - The poems of Jhenny Zang
+
+  - [Rick Bradford's page](http://rickbradford.co.uk/)
+  - A History and Philosophy of Fluid Mechanics - Tokaty
   - [Arrakis' climate model](http://climatearchive.org/dune.html)
   - The Great Physicists from Galileo to Einstein - George Gamow
-
+  - Information Geometry and Evolutionary Game Theory - Marc Haper
+  - [Everything I needed to Know in Life I Learned from Jackson Electrodynamics](https://homepages.uni-regensburg.de/~wet25421/ss23_edyn/JacksonForLife.pdf)
+  - The works of Edwin T. Jaynes, generally
+    - Prior Probabilities
 
 
 
