@@ -52,6 +52,7 @@ redirect_from:
 
 - **Books**
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
+    - The Dripping Faucet as a Model Chaotic System - Cristopher Shaw
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
   - How Surfaces Intersect in Space - J. Scott Carter
@@ -78,15 +79,30 @@ redirect_from:
 - [Structure and Interpretation of Computer Programs - Abelson, Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
+  -[Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
 - CODE - Charles Petzold
 
-- **Types and such**
+- Topological Data Analysis - Gunnar Carlson, Mikael Vejdemo-Johansson
+  - [Gunnar Carlsson on the Shape of Data](https://www.youtube.com/watch?v=kctyag2Xi8o)
+  - Projective Duality and the Rise of Modern Logic - Guenther Eder
+
+
+- **Programming Languages**
+  - [Notation as a Tool of Thought - Kenneth E. Iverson](https://www.jsoftware.com/papers/tot.htm)
+  - [Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
+  - [PLS Lab](https://www.pls-lab.org/)
+  - [Will Crichton's page](https://willcrichton.net/)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
+
+  
+    - [C:FAQ](https://c-faq.com/index.html)
+      - [The C Spiral Rule](https://c-faq.com/decl/spiral.anderson.html)
+    - [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
 
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
