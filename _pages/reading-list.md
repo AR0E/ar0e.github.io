@@ -85,6 +85,7 @@ redirect_from:
 - Compact Data Structures - Navarro
 - CODE - Charles Petzold
 
+-
 - Topological Data Analysis - Gunnar Carlson, Mikael Vejdemo-Johansson
   - [Gunnar Carlsson on the Shape of Data](https://www.youtube.com/watch?v=kctyag2Xi8o)
   - Projective Duality and the Rise of Modern Logic - Guenther Eder
@@ -99,7 +100,7 @@ redirect_from:
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
 
-  
+    - [Rufflewind's Rust Scratchpad](https://rufflewind.com/)
     - [C:FAQ](https://c-faq.com/index.html)
       - [The C Spiral Rule](https://c-faq.com/decl/spiral.anderson.html)
     - [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
