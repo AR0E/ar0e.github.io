@@ -155,10 +155,13 @@ redirect_from:
     - Fast computation of local minimal distances between CAD models for dynamics simulation - Crozet, Merlhiot
     - Recognition of depression and protrusion features on BREP models based on virtual loops - Lai
 
-
-- [POC.GTFO](https://github.com/angea/pocorgtfo)
-  -[POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
-- [TMP.OUT](https://tmpout.sh/)
+## Hacker's Folklore
+  - [Tne Jargon Files](http://www.catb.org/~esr/jargon/html/index.html)
+  - [Andries E. Brouwer's page](https://aeb.win.tue.nl/)
+    - [Hacker's Hut](https://aeb.win.tue.nl/linux/hh/)
+  - [POC.GTFO](https://github.com/angea/pocorgtfo)
+   -[POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
+  - [TMP.OUT](https://tmpout.sh/)
 
 - [A Neighborhood of Infinity](http://blog.sigfpe.com/)
 - [The Langauge Machine, a toolkit for language and grammar - Peri Hankey](https://languagemachine.sourceforge.net/)
