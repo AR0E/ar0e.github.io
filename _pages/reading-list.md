@@ -77,6 +77,7 @@ redirect_from:
 ## The Computer 
 
 - [Structure and Interpretation of Computer Programs - Abelson, Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
+  - [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
   -[Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
@@ -85,7 +86,7 @@ redirect_from:
 - Compact Data Structures - Navarro
 - CODE - Charles Petzold
 
--
+
 - Topological Data Analysis - Gunnar Carlson, Mikael Vejdemo-Johansson
   - [Gunnar Carlsson on the Shape of Data](https://www.youtube.com/watch?v=kctyag2Xi8o)
   - Projective Duality and the Rise of Modern Logic - Guenther Eder
@@ -96,6 +97,7 @@ redirect_from:
   - [Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
   - [PLS Lab](https://www.pls-lab.org/)
   - [Will Crichton's page](https://willcrichton.net/)
+  - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
@@ -126,6 +128,7 @@ redirect_from:
 
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
+  - [Kelsey Kurzeja's page](https://kurzeja.dev/)
   - Foundations of Game Engine Development (I and II) - Eric Lengyel
   - Polygon Mesh Processing - Botsch, Kobbelt
   - Discrete Differential Forms for Computational Modeling - Desbrun, Kanso, Tong
