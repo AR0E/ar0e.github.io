@@ -81,6 +81,7 @@ redirect_from:
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
   -[Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
+- [Xah Lee's Lisp site](http://xahlee.org/)
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
@@ -96,13 +97,17 @@ redirect_from:
   - [Notation as a Tool of Thought - Kenneth E. Iverson](https://www.jsoftware.com/papers/tot.htm)
   - [Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
   - [PLS Lab](https://www.pls-lab.org/)
+  - [Fernando Borretti's page](https://borretti.me/about/)
   - [Will Crichton's page](https://willcrichton.net/)
   - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
 
+    - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
+    - [The Little Schemer - D. P. Friedman, M. Felleisen](https://vpb.smallyu.net/[Type]%20books/The%20Little%20Schemer.pdf)
     - [Rufflewind's Rust Scratchpad](https://rufflewind.com/)
+    - [Python Tutor - Visual C/C++](https://pythontutor.com/)
     - [C:FAQ](https://c-faq.com/index.html)
       - [The C Spiral Rule](https://c-faq.com/decl/spiral.anderson.html)
     - [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
@@ -110,6 +115,7 @@ redirect_from:
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
 
+##
 - **Electronics**
   - Fast and Analytical Techniques for Circuit Analysis - Vatché Vorperian
   - Electrons and Holes - William Shockley
