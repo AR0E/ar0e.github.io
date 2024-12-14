@@ -80,7 +80,7 @@ redirect_from:
   - [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
-  -[Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
+  - [Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
 - [Xah Lee's Lisp site](http://xahlee.org/)
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
@@ -100,6 +100,7 @@ redirect_from:
   - [Fernando Borretti's page](https://borretti.me/about/)
   - [Will Crichton's page](https://willcrichton.net/)
   - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
+  - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
@@ -130,11 +131,14 @@ redirect_from:
   - [What are embeddings?](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf)
   - [The Monge-Ampère equation and its link to optimal transportation](https://arxiv.org/pdf/1310.6167)
   - [Beyond Linear Response: Equivalence between Thermodynamic Geometry and Optimal Transport](https://arxiv.org/pdf/2404.01286)
-  -
+  - [Modal's GPU Glossary](https://modal.com/gpu-glossary/device-software)
 
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
   - [Kelsey Kurzeja's page](https://kurzeja.dev/)
+  - [Thomas Ferniques' math gallery](https://lipn.univ-paris13.fr/~fernique/gallery.html)
+    - [Geometrical Penrose Tilings are characterized by their 1-atlas](https://arxiv.org/pdf/2211.08239)
+  - [John Alexander (Fleen) - Forsythia Fractal](https://fleen.org/)  
   - Foundations of Game Engine Development (I and II) - Eric Lengyel
   - Polygon Mesh Processing - Botsch, Kobbelt
   - Discrete Differential Forms for Computational Modeling - Desbrun, Kanso, Tong
@@ -169,9 +173,13 @@ redirect_from:
   - [Andries E. Brouwer's page](https://aeb.win.tue.nl/)
     - [Hacker's Hut](https://aeb.win.tue.nl/linux/hh/)
   - [POC.GTFO](https://github.com/angea/pocorgtfo)
-   -[POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
+    - [POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
   - [TMP.OUT](https://tmpout.sh/)
+  - [DWIM](https://dwim.hu/)
+  -[Some deranged bash scripts](https://github.com/NARKOZ/hacker-scripts)
 
+- [Wolfgang Foerstner's page (Projective Geometry/Robotics)](https://www.ipb.uni-bonn.de/html/staff/WolfgangFoerstner/collectednotes_v2/)
+  - [Foerstner's main notes](https://www.ipb.uni-bonn.de/html/staff/WolfgangFoerstner/collectednotes_v2/main-Lecturenotes.pdf)
 - [A Neighborhood of Infinity](http://blog.sigfpe.com/)
 - [The Langauge Machine, a toolkit for language and grammar - Peri Hankey](https://languagemachine.sourceforge.net/)
 - [Graph All The Things](https://graphallthethings.com/posts/)
@@ -187,7 +195,7 @@ redirect_from:
   - [ASAP: As Static As Possible memory management - R. L. Proust](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-908.pdf)
   - [Superoptimizer - A Look at the Smallest Program](https://courses.cs.washington.edu/courses/cse501/15sp/papers/massalin.pdf)
   
--[OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
+- [OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
 
 ## Misc
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
