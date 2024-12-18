@@ -228,6 +228,7 @@ redirect_from:
 - [OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
 
 ## Misc
+  - Symbol Sourcebook: An Authoritative Guide to International Graphic Symbols - Henry Dreyfuss
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
   - Musicophilia - Oliver Sacks
   - [Depth psychology and spiritual tradition - Mats Winther](http://mlwi.magix.net/index.htm)
@@ -243,11 +244,12 @@ redirect_from:
   - [Ur-Fascim - Umberto Eco](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
   - The poems of Jhenny Zang
   - [Going Critical - Melting Asphalt](https://meltingasphalt.com/interactive/going-critical/)
-  - [Peter Joot's blog](https://peeterjoot.com/)
+  - [SEELE HQ - City of Play](https://cityofplay.substack.com/)
   - [Encapsuled - Michelangelo (Artist)](https://encapsuled.xyz/)
   - [Otaku Engagements: Subucultural Appropriation of Science and Technology - Lawrence Eng](https://www.proquest.com/openview/8e214f5b82e0c3a91f60e8d29696f577/1?pq-origsite=gscholar&cbl=18750&diss=y)
   - The Matterhorn Lithographs of 1865, Gustavo Doré - Alan Lyall
 
+  - [Peter Joot's blog](https://peeterjoot.com/)
   - [Cohomology fractals](https://arxiv.org/pdf/2002.00239)
   - [Algebraic Number Starscapes](https://arxiv.org/pdf/2008.07655)
   - [Into the Portal: Directable Fractal Self-Similarity - Schor, Kim](https://alexaschor.com/into-the-portal/files/into_the_portal_smaller.pdf)
@@ -257,10 +259,84 @@ redirect_from:
   - The Great Physicists from Galileo to Einstein - George Gamow
   - Information Geometry and Evolutionary Game Theory - Marc Haper
   - [Everything I needed to Know in Life I Learned from Jackson Electrodynamics](https://homepages.uni-regensburg.de/~wet25421/ss23_edyn/JacksonForLife.pdf)
-  - The works of Edwin T. Jaynes, generally
+
+  - <details>
+    <summary>The works of Edwin T. Jaynes, generally</summary>
     - Prior Probabilities
+    </details>
+
+
   - [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology?tab=readme-ov-file)
   - [Computational Neuroscience - Jack Terwilliger](http://jackterwilliger.com/explainers/)
 
+# Thought cabinet
+
+Here's a small collection of thoughts I see from people on the internet.
+It is of course, not even remotely representative of all the ones I've seen,
+only the ones I can remember enough to put here.
 
 
+<details>
+<summary>Ashes of an exhibition</summary>
+
+> In college, there was an art exhibition on campus focused on the
+impermanence of art. One of the exhibits was a bowl of ashes titled
+"this painting was destroyed before the exhibition. Next to it was an
+oil paintingh titled "this painting will be destroyed if it is
+not taken by the end of the exhibition. I visited the exhibition 
+every day, and no one took the painting. On the last day, the painting
+was still there. I couldn t bear to see such craftsmanship destroyed,
+so I took it. Now it hangs on my bedroom, where only I can see it.
+Lately, I find myself looking at it and thinking "I'm the only who
+ever sees this painting. Is it any different than if it were
+destroyed?" -thunderheadcinema6743
+
+</details>
+
+<details>
+<summary>Some Disco Elysium quotes</summary>
+
+> The sun sets into the sea, but the water does not boil.
+Instead, it turns into liquid gold. For a moment, the world's
+store of precious metals seem to increase dramatically,
+you are rich...
+
+> Instead of air, you exhale thoughts. There are no trees
+that eat thoughts.
+
+> (On how the world is sufficient) This is the greatest and kindest arrangement 
+the atoms had in them.
+
+> Before you is a temple of pain that knew little tenderness
+in life.
+
+> This is real darkness. It's not death, or war, or child
+molestation. Real darkness has love for a face. The first death
+is in the heart, Harry.
+
+</details>
+
+<details>
+<summary>Protestants and Catholics</summary>
+
+> Protestants think pleasure is bad, whilst catholics think
+suffering is good; subtle distinction. - @mertonesque
+
+</details>
+
+<details>
+<summary>Poetic endings</summary>
+
+> Nothing ever ends poetically. It ends
+and we turn it into poetry. All that blood was never
+once beautiful, it was just red. - Kait Rowoski
+
+</details>
+
+<details>
+<summary>Wounded people</summary>
+
+> NNo greater desire exists than a wounded
+person's need for another wound. - Bataille, 'Guilty'
+
+</details>
