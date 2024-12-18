@@ -51,6 +51,8 @@ redirect_from:
     
 ## Geometry
 
+- [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
+- [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
 - [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
 - [Garret Sobczyk's page (geometric calculus)](http://www.garretstar.com/index.html)
 
@@ -340,3 +342,4 @@ once beautiful, it was just red. - Kait Rowoski
 person's need for another wound. - Bataille, 'Guilty'
 
 </details>
+
