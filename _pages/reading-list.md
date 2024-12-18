@@ -9,8 +9,13 @@ redirect_from:
 ---
 
 ## Physics
+
+  - [John Baez's page](https://math.ucr.edu/home/baez/)
+  - [Boris Khezin's page](https://www.math.toronto.edu/khesin/)
+  - [Mathpages - Kevin Brown](https://www.mathpages.com/)
+    - [Reflections on Relativity - Kevin Brown](https://www.mathpages.com/rr/rrtoc.htm)
+
   - **Articles**
-    - [John Baez's page](https://math.ucr.edu/home/baez/)
     - The Reason for Antiparticles - Richard P. Feynman
     - What is Spin? - Hans C. Ohanian
     - Skateboard flips and topological tricks in SU(2)
@@ -31,7 +36,6 @@ redirect_from:
     - A Journey into Gravity and Spacetime - Wheeler
     - Special Relativity in General Frames - Éric Gourgoulhon
     - Philsophical Problems of Space and Time - Adolf Grünbaum
-    - [Reflections on Relativity - Kevin Brown](https://www.mathpages.com/rr/rrtoc.htm)
 
     - Entropic Physics - Ariel Caticha
     - Quantum Theory: Concepts and Methods - Asher Peres
@@ -82,6 +86,9 @@ redirect_from:
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
   - [Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
 - [Xah Lee's Lisp site](http://xahlee.org/)
+- [Laurence Tratt's site and blog](https://tratt.net/laurie/blog/)
+- [Kragen Javier Sitaker's sites](http://canonical.org/~kragen/)
+  - [A paper algorithm notation](http://canonical.org/~kragen/sw/dev3/paperalgo)
 - Computer Power and Human Reason - Joseph Weizenbaum
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
@@ -97,10 +104,15 @@ redirect_from:
   - [Notation as a Tool of Thought - Kenneth E. Iverson](https://www.jsoftware.com/papers/tot.htm)
   - [Out of the Tar Pit](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
   - [PLS Lab](https://www.pls-lab.org/)
+  - [Archive of Formal Proofs](https://www.isa-afp.org/)
+  - [Tobias Nipkow's page](https://www21.in.tum.de/~nipkow/)
+    - [Term Rewriting and All That (Semi-Thue systems) - Nipkow, Baader](https://zubairabid.com/Semester7/subjects/PoPL/books/TRaAT.pdf)
+    - [Functional Data Structures and Algorithms Verified](https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf)
   - [Fernando Borretti's page](https://borretti.me/about/)
   - [Will Crichton's page](https://willcrichton.net/)
   - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
   - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
+  - [Tree Calculus - Barry Jay](https://treecalcul.us/)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
@@ -122,8 +134,10 @@ redirect_from:
   - Electrons and Holes - William Shockley
     - Theory of the Work Functions of Monovalent Metals - Wigner, Bardeen
   - Jim Williams
-  - Leach Legacy
+  - [The Philbrick Archive](http://www.philbrickarchive.org/)
+  - [W. Marshall Leach's Legacy](https://leachlegacy.ece.gatech.edu/)
   - Dark (and Bright) Secrets of RF Design
+  - [The SCHEME-79 Lisp chip](https://worrydream.com/refs/Holloway_1980_-_The_SCHEME-79_Chip.pdf)
 
 - **Machine Learning**
   - [Mathematics of Neural Networks - Bart M. N. Smets](https://arxiv.org/pdf/2403.04807)
@@ -139,6 +153,7 @@ redirect_from:
   - [Thomas Ferniques' math gallery](https://lipn.univ-paris13.fr/~fernique/gallery.html)
     - [Geometrical Penrose Tilings are characterized by their 1-atlas](https://arxiv.org/pdf/2211.08239)
   - [John Alexander (Fleen) - Forsythia Fractal](https://fleen.org/)  
+  - [Anatole Duprat's articles](http://www.aduprat.com/portfolio/?page=articles)
   - Foundations of Game Engine Development (I and II) - Eric Lengyel
   - Polygon Mesh Processing - Botsch, Kobbelt
   - Discrete Differential Forms for Computational Modeling - Desbrun, Kanso, Tong
@@ -176,7 +191,12 @@ redirect_from:
     - [POC.GTFO Archives](https://pocorgtfo.hacke.rs/)
   - [TMP.OUT](https://tmpout.sh/)
   - [DWIM](https://dwim.hu/)
-  -[Some deranged bash scripts](https://github.com/NARKOZ/hacker-scripts)
+  - [Scoding.de](https://scoding.de/)
+  - [Cyberheartmi9's learning resources I](https://github.com/cyberheartmi9/Learn-Resource)
+  - [Cyberheartmi9's learning resources II](https://gist.github.com/cyberheartmi9/0288e5e32f588c8cfe23ea17cde07aba)
+  - [Wetw0rk's Windows Kernel Exploitation](https://wetw0rk.github.io/posts/0x00-introduction-to-windows-kernel-exploitation/)
+  - [Some deranged bash scripts](https://github.com/NARKOZ/hacker-scripts)
+  - [Old Apple Folklore](https://folklore.org/0-index.html)
 
 - [Wolfgang Foerstner's page (Projective Geometry/Robotics)](https://www.ipb.uni-bonn.de/html/staff/WolfgangFoerstner/collectednotes_v2/)
   - [Foerstner's main notes](https://www.ipb.uni-bonn.de/html/staff/WolfgangFoerstner/collectednotes_v2/main-Lecturenotes.pdf)
@@ -200,6 +220,10 @@ redirect_from:
 ## Misc
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
   - Musicophilia - Oliver Sacks
+  - [Depth psychology and spiritual tradition - Mats Winther](http://mlwi.magix.net/index.htm)
+  - Fotografien (1985-1998) - Jean Baudrillard
+  - [Poline color picker](https://meodai.github.io/poline/)
+  - [text-mode](https://text-mode.org/)
   - COLLAPSE: The Fall of the Soviet Union - Vladislav M. Zubok
   - Late Victorian Holocausts - Mike Davis
   - The Ideologies of Theory - Fredric Jameson
@@ -207,7 +231,9 @@ redirect_from:
   - How to Blow Up a Pipeline - Andreas Malm
   - [Ur-Fascim - Umberto Eco](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
   - The poems of Jhenny Zang
-
+  - [Going Critical - Melting Asphalt](https://meltingasphalt.com/interactive/going-critical/)
+  - [Peter Joot's blog](https://peeterjoot.com/)
+  - [Encapsuled - Michelangelo (Artist)](https://encapsuled.xyz/)
   - [Otaku Engagements: Subucultural Appropriation of Science and Technology - Lawrence Eng](https://www.proquest.com/openview/8e214f5b82e0c3a91f60e8d29696f577/1?pq-origsite=gscholar&cbl=18750&diss=y)
   - The Matterhorn Lithographs of 1865, Gustavo Doré - Alan Lyall
 
