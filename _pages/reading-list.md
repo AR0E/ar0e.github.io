@@ -8,6 +8,8 @@ redirect_from:
   - "/nmp.html"
 ---
 
+This is just what I managed to remember to put here.
+
 ## Physics
 
   - [John Baez's page](https://math.ucr.edu/home/baez/)
@@ -18,13 +20,22 @@ redirect_from:
   - [Mathpages - Kevin Brown](https://www.mathpages.com/)
     - [Reflections on Relativity - Kevin Brown](https://www.mathpages.com/rr/rrtoc.htm)
   - [Gautam Satishchandran's page](https://www.gautamsatishchandran.com/research)
+  - [Rick Bradford's page](http://rickbradford.co.uk/)
 
   - **Articles**
+    - [The Square Cat - E. Putterman, O. Raz](https://arxiv.org/pdf/0801.0926)
+    - The works of E. T. Jaynes
+      - [The Minimum Entropy Production Principle - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/min.ent.prod.pdf)
+      - [Probability in Quantum Theory - E. T. Jaynes](https://bayes.wustl.edu/etj/articles/prob.in.qm.pdf)
+
+
     - The Reason for Antiparticles - Richard P. Feynman
     - What is Spin? - Hans C. Ohanian
     - Skateboard flips and topological tricks in SU(2)
     - Information, physics, quantum: the search for link - John A. Wheeler
     - Bringing Home the Atomic World - N. D. Mermin
+
+
     - Notes on Quantum Mechanics - David V. Schroeder
     - Helicity and Singular Structures in Fluid Dynamics - H. Keith Moffat
     - Hamiltonian description of the ideal fluid - P. J. Morrison
@@ -35,13 +46,14 @@ redirect_from:
   
   - **Books**
     - The Tragicomical History of Thermodynamics - C. Truesdell
-
+    - What is Life? - Erwin Schrödinger
     - Gravitation - Wheeler, Thorne, Misner
     - A Journey into Gravity and Spacetime - Wheeler
+    - Magic Without Magic: John Archibald Wheeler - Jogn R. Klauder
     - Special Relativity in General Frames - Éric Gourgoulhon
     - Philsophical Problems of Space and Time - Adolf Grünbaum
 
-    - Entropic Physics - Ariel Caticha
+    - [Entropic Physics - Ariel Caticha](https://www.arielcaticha.com/my-book-entropic-physics)
     - Quantum Theory: Concepts and Methods - Asher Peres
     - Quantum Theory: A Wide Spectrum - E. B. Manoukian
 
@@ -49,7 +61,7 @@ redirect_from:
     - Introduction to Mechanics and Symmetry - Marsden, Ratiu
     - Fly by Night Physics - A. Zee
     
-## Geometry
+## Mathematics (Mostly geometry)
 
 - [Ivo Terek Couto's notes](https://web.williams.edu/Mathematics/it3/texts/)
 - [Gilles Castel's thesis on Morse Theory](https://github.com/gillescastel/masterthesis/blob/master/final-version.pdf)
@@ -65,10 +77,13 @@ redirect_from:
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
 
 - **Books**
+  - Proofs - Jay Cummings
+  - Groupes - Georges Papy
   - Dynamics, The Geometry of Behavior - Ralph Abraham, Cristopher Shaw
     - The Dripping Faucet as a Model Chaotic System - Cristopher Shaw
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
+  - Foliations and the Geometry of 3-manifolds - Danny Calegari
   - Dastellende Geometrie, 3rd Ed. - Fritz Rehbock
   - How Surfaces Intersect in Space - J. Scott Carter
   - From Geometry to Topology - H. Graham Flegg
@@ -86,6 +101,7 @@ redirect_from:
 
 ## Essays
   - [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
+  - [A Terra sem mal, o paraíso Tupi-Guarani](https://tupi.fflch.usp.br/sites/tupi.fflch.usp.br/files/NAVARRO,%20E.A.%20A%20terra%20sem%20mal,%20o%20par%C3%A1iso%20tupi%20guarani..pdf)
   - [Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)
   - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
   
@@ -230,43 +246,81 @@ redirect_from:
 - [OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
 
 ## Misc
-  - Symbol Sourcebook: An Authoritative Guide to International Graphic Symbols - Henry Dreyfuss
+
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
   - Musicophilia - Oliver Sacks
   - [Depth psychology and spiritual tradition - Mats Winther](http://mlwi.magix.net/index.htm)
+  - 137: Jung, Pauli and the pursuit of scientific obsession - Arthur I. Miller
+  - The Origin of Consciousness in the Breakdown of the Bicameral Mind - Julian Jaynes
+  - [SEELE HQ - City of Play](https://cityofplay.substack.com/)
+  - [Encapsuled - Michelangelo (Artist)](https://encapsuled.xyz/)
+
+  - Symbol Sourcebook: An Authoritative Guide to International Graphic Symbols - Henry Dreyfuss
   - Fotografien (1985-1998) - Jean Baudrillard
   - [L'harmonie des couleurs - Édouard Guichard](https://archive.org/details/gri_c00033125010881106)
   - [Poline color picker](https://meodai.github.io/poline/)
   - [text-mode](https://text-mode.org/)
+  - Pinturas de Rafael Hayashi, 2014-2023
+
+  - The Poetics of Space - Gaston Bachelard
+  - Diaspora - Greg Egan
+  - A Gramática do Tempo - Boaventura de Sousa dos Santos
+  - Male Fantasies (I and II) - Klaus Theweleit
   - COLLAPSE: The Fall of the Soviet Union - Vladislav M. Zubok
   - Late Victorian Holocausts - Mike Davis
   - The True & Only Heaven - Cristopher Lasch
   - The Ideologies of Theory - Fredric Jameson
   - Branding Terror - Beifuss, Bellini
   - How to Blow Up a Pipeline - Andreas Malm
+  - House of Leaves - Mark Z. Danielewski
+  - The Conspiracy Against the Human Race - Thomas Ligotti
+  - The Submission - Amy Waldman
+  - Why Not Kill Them All?: The Logic and Prevention of Mass Political Murder - Chirot, McCauley
+  
+  - The works of Herman Hesse
+    - Siddharta
+    - 100 Years of Solitude
   - [Ur-Fascim - Umberto Eco](https://theanarchistlibrary.org/library/umberto-eco-ur-fascism)
   - The poems of Jhenny Zang
-  - [Going Critical - Melting Asphalt](https://meltingasphalt.com/interactive/going-critical/)
-  - [SEELE HQ - City of Play](https://cityofplay.substack.com/)
-  - [Encapsuled - Michelangelo (Artist)](https://encapsuled.xyz/)
-  - [Otaku Engagements: Subucultural Appropriation of Science and Technology - Lawrence Eng](https://www.proquest.com/openview/8e214f5b82e0c3a91f60e8d29696f577/1?pq-origsite=gscholar&cbl=18750&diss=y)
-  - The Matterhorn Lithographs of 1865, Gustavo Doré - Alan Lyall
+  - Cicero's Style, a snynopsis - Michael von Albrecht
 
+  - [Otaku Engagements: Subucultural Appropriation of Science and Technology - Lawrence Eng](https://www.proquest.com/openview/8e214f5b82e0c3a91f60e8d29696f577/1?pq-origsite=gscholar&cbl=18750&diss=y)
+
+  - The Matterhorn Lithographs of 1865, Gustavo Doré - Alan Lyall
+  - Physices Elementa Mathematica, Experimentis Confirmata - Willem J. Gravesande
+  - Natural Philosophy for Schools - Dionysius Lardner
+  - The New Marvel in Photography (Discovery of X-Rays 1896) - H. J. Dam
+
+  - A History and Philosophy of Fluid Mechanics - Tokaty
+  - A History of Numerical Analysis from the 16th Through the 19th Century - Herman Goldstine
+  - Euler's Wave Theory of Light - Kurt Moller Pedersen
+  - History of the Principle of Interference of Light - Nahum Kipnis
+  - A brief history of Florentine physics from the 1920s to the end of the 1960s - Casalbuoni, Dominici, Mazzoni
+  - The Man from the Future (Von Neumann biography) - Ananyo Bhattacharya
+  - Geons, Black Holes and Quantum Foam (J. Wheeler biography) - Kenneth Ford
+  - The Stragest Man: Mystic of the Atom (Dirac biography) - Graham Farmelo
+  - Genius: The Life and Science of Richard Feynman - James Gleick
+  - True Genius: The Life and Science of John Bardeen - Hoddeson, Daitch (yikes!)
+  - Isaac Newton - James Gleick
+  - The Great Physicists from Galileo to Einstein - George Gamow
+
+  - Feynman and the visualization of space-time processes - Silvan S. Schweber
+  - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
+  - The Surpressed Drawings: The Hidden Geometry of Paul Dirac - Peter Galison
+  - Leray in Oflag XVIIA: The origins of sheaf theory, sheaf cohomology and spectral sequences - Haynes Miller
+  - Makers of the Microchip: A Documentary History of Fairchild Semiconductor - Lécuyer, Brock
+  - Why is Maxwell's Theory so hard to understad? - Freeman J. Dyson
+  - C.N. Yang and Contemporary Mathematics - D. Z. Zhang
+
+
+  - [Going Critical - Melting Asphalt](https://meltingasphalt.com/interactive/going-critical/)
   - [Peter Joot's blog](https://peeterjoot.com/)
   - [Cohomology fractals](https://arxiv.org/pdf/2002.00239)
   - [Algebraic Number Starscapes](https://arxiv.org/pdf/2008.07655)
   - [Into the Portal: Directable Fractal Self-Similarity - Schor, Kim](https://alexaschor.com/into-the-portal/files/into_the_portal_smaller.pdf)
-  - [Rick Bradford's page](http://rickbradford.co.uk/)
-  - A History and Philosophy of Fluid Mechanics - Tokaty
   - [Arrakis' climate model](http://climatearchive.org/dune.html)
-  - The Great Physicists from Galileo to Einstein - George Gamow
   - Information Geometry and Evolutionary Game Theory - Marc Haper
   - [Everything I needed to Know in Life I Learned from Jackson Electrodynamics](https://homepages.uni-regensburg.de/~wet25421/ss23_edyn/JacksonForLife.pdf)
-
-  - <details>
-    <summary>The works of Edwin T. Jaynes, generally</summary>
-    - Prior Probabilities
-    </details>
 
 
   - [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology?tab=readme-ov-file)
