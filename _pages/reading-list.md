@@ -11,9 +11,13 @@ redirect_from:
 ## Physics
 
   - [John Baez's page](https://math.ucr.edu/home/baez/)
+  - [Cartan's Corner - R. M. Keihn](http://www22.pair.com/csdc/car/carhomep.htm)
+    - [Falaco Solitons](http://www22.pair.com/csdc/pdf/falaco97.pdf)
   - [Boris Khezin's page](https://www.math.toronto.edu/khesin/)
+  - [Y. Brenier's page](https://www.cmls.polytechnique.fr/perso/brenier/)
   - [Mathpages - Kevin Brown](https://www.mathpages.com/)
     - [Reflections on Relativity - Kevin Brown](https://www.mathpages.com/rr/rrtoc.htm)
+  - [Gautam Satishchandran's page](https://www.gautamsatishchandran.com/research)
 
   - **Articles**
     - The Reason for Antiparticles - Richard P. Feynman
@@ -46,6 +50,10 @@ redirect_from:
     - Fly by Night Physics - A. Zee
     
 ## Geometry
+
+- [Ian Bell's Multivector methods](http://www.iancgbell.clara.net/maths/)
+- [Garret Sobczyk's page (geometric calculus)](http://www.garretstar.com/index.html)
+
 - **Articles**
   - Differential Geometry of Music Perception - Himpel
   - The Quintic, the Icosahedron and Elliptic Curves - Bruce Bartlett
@@ -59,6 +67,7 @@ redirect_from:
     - The Dripping Faucet as a Model Chaotic System - Cristopher Shaw
   - Perspectives on Nonlinear Dynamics, Vol I and II - E. Atlee Jackson
   - A Topological Picturebook - George K. Francis
+  - Dastellende Geometrie, 3rd Ed. - Fritz Rehbock
   - How Surfaces Intersect in Space - J. Scott Carter
   - From Geometry to Topology - H. Graham Flegg
   - Geometric Measure Theory - Frank Morgan
@@ -110,6 +119,7 @@ redirect_from:
     - [Functional Data Structures and Algorithms Verified](https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf)
   - [Fernando Borretti's page](https://borretti.me/about/)
   - [Will Crichton's page](https://willcrichton.net/)
+  - [Zack Overflow's page](https://zackoverflow.dev/)
   - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
   - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
   - [Tree Calculus - Barry Jay](https://treecalcul.us/)
@@ -226,6 +236,7 @@ redirect_from:
   - [text-mode](https://text-mode.org/)
   - COLLAPSE: The Fall of the Soviet Union - Vladislav M. Zubok
   - Late Victorian Holocausts - Mike Davis
+  - The True & Only Heaven - Cristopher Lasch
   - The Ideologies of Theory - Fredric Jameson
   - Branding Terror - Beifuss, Bellini
   - How to Blow Up a Pipeline - Andreas Malm
@@ -248,6 +259,8 @@ redirect_from:
   - [Everything I needed to Know in Life I Learned from Jackson Electrodynamics](https://homepages.uni-regensburg.de/~wet25421/ss23_edyn/JacksonForLife.pdf)
   - The works of Edwin T. Jaynes, generally
     - Prior Probabilities
+  - [Formal Systems in Biology](https://github.com/prathyvsh/formal-systems-in-biology?tab=readme-ov-file)
+  - [Computational Neuroscience - Jack Terwilliger](http://jackterwilliger.com/explainers/)
 
 
 
