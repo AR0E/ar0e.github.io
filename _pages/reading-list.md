@@ -43,6 +43,7 @@ This is just what I managed to remember to put here.
     - An Elementary Introduction to the Geometry of Quantum States with Pictures - Avron, Kenneth
     - An Introduction to Spontaneous Symmetry Breaking - Beekman, Rademaker, Wezel
     - Possible Kinematics - Bacry, Levy-Leblond
+    - Emergence of fractal geometries in the evolution of a metabolic enzyme - Sendker
   
   - **Books**
     - The Tragicomical History of Thermodynamics - C. Truesdell
@@ -75,6 +76,7 @@ This is just what I managed to remember to put here.
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
+  
 
 - **Books**
   - Proofs - Jay Cummings
@@ -120,6 +122,8 @@ This is just what I managed to remember to put here.
 - The Art of Computer Programming (I and II) - Donald E. Knuth
 - Compact Data Structures - Navarro
 - CODE - Charles Petzold
+- [YSC229: Imperative Algorithms and DS in OCAML](https://ilyasergey.net/YSC2229/)
+- ["What The Hardware Does" is not What Your Program Does: Uninitialized Memory](https://www.ralfj.de/blog/2019/07/14/uninit.html)
 
 
 - Topological Data Analysis - Gunnar Carlson, Mikael Vejdemo-Johansson
@@ -136,7 +140,11 @@ This is just what I managed to remember to put here.
     - [Term Rewriting and All That (Semi-Thue systems) - Nipkow, Baader](https://zubairabid.com/Semester7/subjects/PoPL/books/TRaAT.pdf)
     - [Functional Data Structures and Algorithms Verified](https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf)
   - [Fernando Borretti's page](https://borretti.me/about/)
+  - [Alexis King's page](https://lexi-lambda.github.io/)
+    - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
   - [Will Crichton's page](https://willcrichton.net/)
+  - [Queer Types](queertypes.com)
+    - [Know your types](https://queertypes.com/posts/25-know-your-types.html) 
   - [Zack Overflow's page](https://zackoverflow.dev/)
   - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
   - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
@@ -144,6 +152,7 @@ This is just what I managed to remember to put here.
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
+  - [A defense of boring languages](https://danluu.com/boring-languages/)
 
     - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
     - [The Little Schemer - D. P. Friedman, M. Felleisen](https://vpb.smallyu.net/[Type]%20books/The%20Little%20Schemer.pdf)
@@ -152,6 +161,7 @@ This is just what I managed to remember to put here.
     - [C:FAQ](https://c-faq.com/index.html)
       - [The C Spiral Rule](https://c-faq.com/decl/spiral.anderson.html)
     - [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
+    - [Everything you need to know about pointers in C - Peter Hosey](https://boredzo.org/pointers/)
 
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
@@ -168,12 +178,14 @@ This is just what I managed to remember to put here.
   - [The SCHEME-79 Lisp chip](https://worrydream.com/refs/Holloway_1980_-_The_SCHEME-79_Chip.pdf)
 
 - **Machine Learning**
+  - [Gail Weiss' page](https://gailweiss.github.io/index.html)
   - [Mathematics of Neural Networks - Bart M. N. Smets](https://arxiv.org/pdf/2403.04807)
   - [Statistical Optimal Transport - Chewi, Rigollet, Niles-Weed](https://arxiv.org/pdf/2407.18163)
   - [What are embeddings?](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf)
   - [The Monge-Ampère equation and its link to optimal transportation](https://arxiv.org/pdf/1310.6167)
   - [Beyond Linear Response: Equivalence between Thermodynamic Geometry and Optimal Transport](https://arxiv.org/pdf/2404.01286)
   - [Modal's GPU Glossary](https://modal.com/gpu-glossary/device-software)
+  - [Thinking Like Transformers - Weiss, Goldberg, Yahav](https://srush.github.io/raspy/)
 
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
@@ -233,6 +245,7 @@ This is just what I managed to remember to put here.
 - [Graph All The Things](https://graphallthethings.com/posts/)
 
 - **Static analysis and compilers**
+  - [Common Misconceptions about Compilers - Stefanos Baziotis](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
   - [John Cyphert's page on algebraic program analysis](https://pages.cs.wisc.edu/~jcyphert/)
   - [Xavier Leroy - Formal verification and compiler design](https://xavierleroy.org/)
   - [Compiler Optimization in a Language you Can Understand](https://sbaziotis.com/compilers/compiler-opt.html)
@@ -254,7 +267,11 @@ This is just what I managed to remember to put here.
   - The Origin of Consciousness in the Breakdown of the Bicameral Mind - Julian Jaynes
   - [SEELE HQ - City of Play](https://cityofplay.substack.com/)
   - [Encapsuled - Michelangelo (Artist)](https://encapsuled.xyz/)
+  - [HYPERSTITION, Abstract Dynamics](http://hyperstition.abstractdynamics.org/
 
+  - [Neil Panchal's page](https://neil.computer/)
+    - [U.S. Graphics Company](https://usgraphics.com/)
+    - [Johnny Decimal](johnnydecimal.com/)
   - Symbol Sourcebook: An Authoritative Guide to International Graphic Symbols - Henry Dreyfuss
   - Fotografien (1985-1998) - Jean Baudrillard
   - [L'harmonie des couleurs - Édouard Guichard](https://archive.org/details/gri_c00033125010881106)
@@ -266,6 +283,7 @@ This is just what I managed to remember to put here.
   - Diaspora - Greg Egan
   - A Gramática do Tempo - Boaventura de Sousa dos Santos
   - Male Fantasies (I and II) - Klaus Theweleit
+  - Cinema (I and II) - Gilles Deleuze
   - COLLAPSE: The Fall of the Soviet Union - Vladislav M. Zubok
   - Late Victorian Holocausts - Mike Davis
   - The True & Only Heaven - Cristopher Lasch
