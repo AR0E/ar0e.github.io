@@ -33,7 +33,10 @@ This is just what I managed to remember to put here.
     - What is Spin? - Hans C. Ohanian
     - Skateboard flips and topological tricks in SU(2)
     - Information, physics, quantum: the search for link - John A. Wheeler
-    - Bringing Home the Atomic World - N. D. Mermin
+    - Bringing Home the Atomic World - N. D. Mermin]
+    - Classical Electrodynamics in Terms of Direct Interparticle Action - Feynman, Wheeler
+      - Relativistic non-instantaneous action-at-a-distance interactions - Domingo Martinez
+
 
 
     - Notes on Quantum Mechanics - David V. Schroeder
@@ -115,7 +118,15 @@ This is just what I managed to remember to put here.
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
   - [Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
 - [Xah Lee's Lisp site](http://xahlee.org/)
+- [Paul Grahams' page](https://www.paulgraham.com/) 
 - [Laurence Tratt's site and blog](https://tratt.net/laurie/blog/)
+- [Veryunknown's page](https://veryunknown.com/)
+  - [Understanding Generative AI (Stable Diffusion) as Galton Board](veryunknown.com/post/generative-ai/)
+  - [Understanding Computing Through Visualized Lambda Calculus](veryunknown.com/post/lambda-calculus-visualized/)
+  
+- [Hikaru Ikuta's page](https://woodrush.github.io/)
+  - [LambdaLisp - A CLISP interpreter written in untyped lambda calculus](https://woodrush.github.io/lambdalisp.pdf)
+  - [LISP in Life](https://github.com/woodrush/lisp-in-life) 
 - [Kragen Javier Sitaker's sites](http://canonical.org/~kragen/)
   - [A paper algorithm notation](http://canonical.org/~kragen/sw/dev3/paperalgo)
 - Computer Power and Human Reason - Joseph Weizenbaum
@@ -140,9 +151,18 @@ This is just what I managed to remember to put here.
     - [Term Rewriting and All That (Semi-Thue systems) - Nipkow, Baader](https://zubairabid.com/Semester7/subjects/PoPL/books/TRaAT.pdf)
     - [Functional Data Structures and Algorithms Verified](https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf)
   - [Fernando Borretti's page](https://borretti.me/about/)
+  - [Andres Löh's page](https://www.andres-loeh.de/)
+    - [A tutorial implementation of a dependently typed lambda calculus](https://www.andres-loeh.de/LambdaPi/LambdaPi.pdf)
+    - [ΠΣ: Dependent Types without the Sugar](https://people.cs.nott.ac.uk/psztxa/publ/pisigma-new.pdf)
+  - [Stephanie Weirich](https://www.cis.upenn.edu/~sweirich/) 
+  - [Thomas Kehrenberg's page](https://tm.kehrenberg.net/)
+    - [Basic building blocks of dependent type theory](https://tm.kehrenberg.net/a/type-theory1/)
+    - [A high-level introduction to programming](https://tm.kehrenberg.net/a/things-i-wish-i-had-been-told-about-programming/)
   - [Alexis King's page](https://lexi-lambda.github.io/)
     - [Parse, don't validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
   - [Will Crichton's page](https://willcrichton.net/)
+  - [Robin Piedeleus' research](https://piedeleu.com/research/)
+    - [String diagrams for the λ-calculus?](https://piedeleu.com/posts/diagrammatic-lambda-calculus/#string_diagrams_for_the_lambda-calculus) 
   - [Queer Types](queertypes.com)
     - [Know your types](https://queertypes.com/posts/25-know-your-types.html) 
   - [Zack Overflow's page](https://zackoverflow.dev/)
@@ -155,7 +175,9 @@ This is just what I managed to remember to put here.
   - [A defense of boring languages](https://danluu.com/boring-languages/)
 
     - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
+    - [Common Lisp, the Language - Steele](https://filonenko-mikhail.github.io/cltl2-doc/enpdf/cltl2.pdf)
     - [The Little Schemer - D. P. Friedman, M. Felleisen](https://vpb.smallyu.net/[Type]%20books/The%20Little%20Schemer.pdf)
+      
     - [Rufflewind's Rust Scratchpad](https://rufflewind.com/)
     - [Python Tutor - Visual C/C++](https://pythontutor.com/)
     - [C:FAQ](https://c-faq.com/index.html)
