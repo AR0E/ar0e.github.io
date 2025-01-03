@@ -79,6 +79,7 @@ This is just what I managed to remember to put here.
   - A geometric construction of the Riemann scalar curvature in Regge calculus - McDonald, Miller
   - A pictorial introduction to differential geometry - Jonathan Gratus
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
+  - [Combinatorics - Joe Moeller](https://joe-moeller.com/2019/10/07/combinatorics-lecture-1-26-sep-2019/)
   
 
 - **Books**
@@ -109,6 +110,8 @@ This is just what I managed to remember to put here.
 - [Structure and Interpretation of Computer Programs - Abelson, Sussman](https://web.mit.edu/6.001/6.037/sicp.pdf)
   - [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/content/index.html)
 - [Jean Gallier's book page](https://www.cis.upenn.edu/~jean/gbooks/home.html)
+- [CollapseOS - Bootstrap post-collapse technology](http://collapseos.org/)
+  - I'd recommend checking all the affiliates, but particularly recommend [this](https://blogbyjoshcogliati.blogspot.com/2021/05/public-domain-books-to-restart-computer.html) and [this](https://simplifier.neocities.org/)
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
   - [Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
 - [Xah Lee's Lisp site](http://xahlee.org/)
@@ -117,13 +120,18 @@ This is just what I managed to remember to put here.
 - [Veryunknown's page](https://veryunknown.com/)
   - [Understanding Generative AI (Stable Diffusion) as Galton Board](veryunknown.com/post/generative-ai/)
   - [Understanding Computing Through Visualized Lambda Calculus](veryunknown.com/post/lambda-calculus-visualized/)
-  
+- [N8Programs](https://n8python.github.io/)
+  - [MNIST Number Latent Space](https://n8python.github.io/mnistLatentSpace/) 
+
+- [Alex Nelson's page](https://pqnelson.github.io/)
+  - [What even is "literate programming"?](https://pqnelson.github.io/2024/05/29/literate-programming.html)
+  - [Retrocomputing Projects for the Bored and Insane](https://pqnelson.github.io/2024/05/26/retrocomputing-projects.html)
+  - [Hoare Logic for Numerical Analysis](https://pqnelson.github.io/2024/04/28/hoare-logic-numerical-analysis.html)
 - [Hikaru Ikuta's page](https://woodrush.github.io/)
   - [LambdaLisp - A CLISP interpreter written in untyped lambda calculus](https://woodrush.github.io/lambdalisp.pdf)
   - [LISP in Life](https://github.com/woodrush/lisp-in-life)
 - [Peripatetic Axiom's page](https://peripateticaxiom.blogspot.com/)
   - [Research, what is it good for?](https://peripateticaxiom.blogspot.com/2008/01/research-huh-what-is-it-good-for.html)
-  -  
 - [Kragen Javier Sitaker's sites](http://canonical.org/~kragen/)
   - [A paper algorithm notation](http://canonical.org/~kragen/sw/dev3/paperalgo)
 - Computer Power and Human Reason - Joseph Weizenbaum
@@ -168,10 +176,12 @@ This is just what I managed to remember to put here.
   - [Tree Calculus - Barry Jay](https://treecalcul.us/)
   - [CHARITY, categorical programming language with halting](https://pll.cpsc.ucalgary.ca/charity1/www/home.html)
   - [Building Blocks of Theoretical Computer Science - Margaret M. Fleck](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
+  - [The Little Typer - Daniel P. Friedman and David Thrane Christiansen](https://thelittletyper.com/)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
   - [A defense of boring languages](https://danluu.com/boring-languages/)
+  - [On the Expressive Power of Programming Languages - Matthias Felleisen](https://jgbm.github.io/eecs762f19/papers/felleisen.pdf)
 
   - Wadler and Bird's stuff
     - [Introduction to Functional Programming](https://usi-pl.github.io/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf)
@@ -179,7 +189,9 @@ This is just what I managed to remember to put here.
     - [Pearls of Functional Algorithm Design - Richard Bird](https://dai.fmph.uniba.sk/courses/FPRO/bird_pearls.pdf)
     - [Unfolding Pointer Algorithms - Richard Bird](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8d103842c17aa9cec0a449d5e8d244c0c6ce4b7f)
     - [Maximum Marking Problems - Richard Bird](https://www.cs.ox.ac.uk/people/richard.bird/online/Bird2001Maximum.pdf)
-    
+ 
+    - [The Lisperator](lisperator.net)
+    - 
     - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
     - [Common Lisp, the Language - Steele](https://filonenko-mikhail.github.io/cltl2-doc/enpdf/cltl2.pdf)
     - [The Little Schemer - D. P. Friedman, M. Felleisen](https://vpb.smallyu.net/[Type]%20books/The%20Little%20Schemer.pdf)
@@ -187,10 +199,14 @@ This is just what I managed to remember to put here.
     - [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html)
     - [Readable Lisp S-Expressions Project](https://readable.sourceforge.io/)
     - [L-99: 99 Lisp problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html)
+    - [Matthew Plants' page](https://maplant.com/index.html)
+      - [Embedded Scheme in Rust](https://github.com/maplant/scheme-rs)
+      - [Simple C garbage collector](https://maplant.com/2020-04-25-Writing-a-Simple-Garbage-Collector-in-C.html)
+    - [It's Lambdas All the way Down](https://aplaceofmind.notion.site/It-s-Lambdas-All-the-Way-Down-eb33012f54bb4708af001e0214910698)
+      - [HackerNews discussion thread](https://news.ycombinator.com/item?id=37202009) 
       
     - [Rufflewind's Rust Scratchpad](https://rufflewind.com/)
     - [Python Tutor - Visual C/C++](https://pythontutor.com/)
-    - [](https://blog.joren.ga/less-known-c)
     - [C:FAQ](https://c-faq.com/index.html)
       - [The C Spiral Rule](https://c-faq.com/decl/spiral.anderson.html)
     - [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
@@ -199,6 +215,7 @@ This is just what I managed to remember to put here.
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
 - [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/pdf/2408.10234)
+- [The Next 700 Programming Languages - P. J. Landin](https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf)
 
 ##
 - **Electronics**
@@ -226,6 +243,8 @@ This is just what I managed to remember to put here.
   - [Modal's GPU Glossary](https://modal.com/gpu-glossary/device-software)
   - [Thinking Like Transformers - Weiss, Goldberg, Yahav](https://srush.github.io/raspy/)
   - [Learning a Manifold of Fonts (Interactive Demo)](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html#interactive_demo)
+  - [You could have designed state of the art positional encoding](https://huggingface.co/blog/designing-positional-encoding)
+  - [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
@@ -346,6 +365,10 @@ This is just what I managed to remember to put here.
   - The Conspiracy Against the Human Race - Thomas Ligotti
   - The Submission - Amy Waldman
   - Why Not Kill Them All?: The Logic and Prevention of Mass Political Murder - Chirot, McCauley
+  - Geometry and Meaning - Dominic Widdows
+  - Cognition in the Wild - Edwin Hutchins
+    - [Cosma Shalizi's review](bactra.org/reviews/cognition-in-the-wild/)
+  - [The Bactra Review (Cosma Shalizi)](http://bactra.org/reviews/)
   
   - The works of Herman Hesse
     - Siddharta
