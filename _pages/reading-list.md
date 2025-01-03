@@ -12,7 +12,10 @@ This is just what I managed to remember to put here.
 
 ## Physics
 
-  - [John Baez's page](https://math.ucr.edu/home/baez/)
+  - [John Baez's page (Read everything he's ever wrote)](https://math.ucr.edu/home/baez/)
+  - [Water structure and science](https://water.lsbu.ac.uk/water/water_structure_science.html)
+    - [Water's unexpected properties](https://water.lsbu.ac.uk/water/water_unexpected.html)
+    - [Water Models](https://water.lsbu.ac.uk/water/water_models.html)
   - [Cartan's Corner - R. M. Keihn](http://www22.pair.com/csdc/car/carhomep.htm)
     - [Falaco Solitons](http://www22.pair.com/csdc/pdf/falaco97.pdf)
   - [Boris Khezin's page](https://www.math.toronto.edu/khesin/)
@@ -21,6 +24,13 @@ This is just what I managed to remember to put here.
     - [Reflections on Relativity - Kevin Brown](https://www.mathpages.com/rr/rrtoc.htm)
   - [Gautam Satishchandran's page](https://www.gautamsatishchandran.com/research)
   - [Rick Bradford's page](http://rickbradford.co.uk/)
+  - [Luca Cardelli's page](http://lucacardelli.name/)
+    - 
+    - [Type systems (fits on the PL section)](http://lucacardelli.name/papers/typesystems.pdf)
+  - [John S. Denker's page]
+    - [Modern Thermodynamics](https://www.av8n.com/physics/thermo/)
+    - [See How it Flies](https://www.av8n.com/how/)
+    - [Computer Related Documents](https://www.av8n.com/computer/htm/index.html)
 
   - **Articles**
     - [The Square Cat - E. Putterman, O. Raz](https://arxiv.org/pdf/0801.0926)
@@ -80,6 +90,7 @@ This is just what I managed to remember to put here.
   - A pictorial introduction to differential geometry - Jonathan Gratus
   - A Sheaf-Theoretic Construction of Shape Space - Arya, Curry, Mukherjee
   - [Combinatorics - Joe Moeller](https://joe-moeller.com/2019/10/07/combinatorics-lecture-1-26-sep-2019/)
+  - [Is there a natural topology for sets of topological spaces?](https://mathoverflow.net/questions/484088/is-there-a-natural-topology-for-sets-of-topological-spaces)
   
 
 - **Books**
@@ -115,6 +126,8 @@ This is just what I managed to remember to put here.
 - [How to Design Programs, Second Edition](https://htdp.org/2024-11-6/Book/index.html)
   - [Another resource list](https://github.com/veyselusta/programming-language-research?tab=readme-ov-file)
 - [Xah Lee's Lisp site](http://xahlee.org/)
+- [Perfumed Nightmare](https://danielsz.github.io/)
+- [Factasia: RBJones' page](https://www.rbjones.com/rbjpub/index.htm)
 - [Paul Grahams' page](https://www.paulgraham.com/) 
 - [Laurence Tratt's site and blog](https://tratt.net/laurie/blog/)
 - [Veryunknown's page](https://veryunknown.com/)
@@ -325,6 +338,7 @@ This is just what I managed to remember to put here.
   - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
   - The Age of Artificial Intelligence: An Exploration (Essay book by Vernon Press)
     - Human and Intelligent Machines: Co-Evolution, Fusion or Replacement? - David Pearce
+  - [The Use of Knowledge in Society - F. A. Hayek](https://edisciplinas.usp.br/pluginfile.php/4869389/mod_resource/content/1/hayek.pdf)
 
 
 
