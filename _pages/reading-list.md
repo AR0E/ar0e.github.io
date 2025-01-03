@@ -103,12 +103,6 @@ This is just what I managed to remember to put here.
   - [Spin Geometry - Christian Bär](https://www.math.uni-potsdam.de/fileadmin/user_upload/Prof-Geometrie/Dokumente/Lehre/Veranstaltungen/SS11/spingeo.pdf)
 
 - http://roice3.org/ 
-
-## Essays
-  - [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
-  - [A Terra sem mal, o paraíso Tupi-Guarani](https://tupi.fflch.usp.br/sites/tupi.fflch.usp.br/files/NAVARRO,%20E.A.%20A%20terra%20sem%20mal,%20o%20par%C3%A1iso%20tupi%20guarani..pdf)
-  - [Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)
-  - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
   
 ## The Computer 
 
@@ -126,7 +120,10 @@ This is just what I managed to remember to put here.
   
 - [Hikaru Ikuta's page](https://woodrush.github.io/)
   - [LambdaLisp - A CLISP interpreter written in untyped lambda calculus](https://woodrush.github.io/lambdalisp.pdf)
-  - [LISP in Life](https://github.com/woodrush/lisp-in-life) 
+  - [LISP in Life](https://github.com/woodrush/lisp-in-life)
+- [Peripatetic Axiom's page](https://peripateticaxiom.blogspot.com/)
+  - [Research, what is it good for?](https://peripateticaxiom.blogspot.com/2008/01/research-huh-what-is-it-good-for.html)
+  -  
 - [Kragen Javier Sitaker's sites](http://canonical.org/~kragen/)
   - [A paper algorithm notation](http://canonical.org/~kragen/sw/dev3/paperalgo)
 - Computer Power and Human Reason - Joseph Weizenbaum
@@ -169,17 +166,31 @@ This is just what I managed to remember to put here.
   - [Verdagon - Evan Ovadia](https://verdagon.dev/home)
   - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/)
   - [Tree Calculus - Barry Jay](https://treecalcul.us/)
+  - [CHARITY, categorical programming language with halting](https://pll.cpsc.ucalgary.ca/charity1/www/home.html)
+  - [Building Blocks of Theoretical Computer Science - Margaret M. Fleck](https://mfleck.cs.illinois.edu/building-blocks/index-sp2020.html)
   - Types and Programming Languages - Pierce
   - Advanced Topics in Types and Programming Languages - Pierce
   - Type Invariants and Ghost Code in Rust Verification with Creusot
   - [A defense of boring languages](https://danluu.com/boring-languages/)
 
+  - Wadler and Bird's stuff
+    - [Introduction to Functional Programming](https://usi-pl.github.io/doc/Bird_Wadler.%20Introduction%20to%20Functional%20Programming.1ed.pdf)
+    - [Theorems for free! = Philip Wadler](https://people.mpi-sws.org/~dreyer/tor/papers/wadler.pdf)
+    - [Pearls of Functional Algorithm Design - Richard Bird](https://dai.fmph.uniba.sk/courses/FPRO/bird_pearls.pdf)
+    - [Unfolding Pointer Algorithms - Richard Bird](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=8d103842c17aa9cec0a449d5e8d244c0c6ce4b7f)
+    - [Maximum Marking Problems - Richard Bird](https://www.cs.ox.ac.uk/people/richard.bird/online/Bird2001Maximum.pdf)
+    
     - [Pascal Costanza's Highly Opinionated Guide to Lisp](http://www.p-cos.net/lisp/guide.html)
     - [Common Lisp, the Language - Steele](https://filonenko-mikhail.github.io/cltl2-doc/enpdf/cltl2.pdf)
     - [The Little Schemer - D. P. Friedman, M. Felleisen](https://vpb.smallyu.net/[Type]%20books/The%20Little%20Schemer.pdf)
+    - [Lisp as the Maxwell’s equations of software](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/)
+    - [The Nature of Lisp](https://www.defmacro.org/ramblings/lisp.html)
+    - [Readable Lisp S-Expressions Project](https://readable.sourceforge.io/)
+    - [L-99: 99 Lisp problems](https://www.ic.unicamp.br/~meidanis/courses/mc336/problemas-lisp/L-99_Ninety-Nine_Lisp_Problems.html)
       
     - [Rufflewind's Rust Scratchpad](https://rufflewind.com/)
     - [Python Tutor - Visual C/C++](https://pythontutor.com/)
+    - [](https://blog.joren.ga/less-known-c)
     - [C:FAQ](https://c-faq.com/index.html)
       - [The C Spiral Rule](https://c-faq.com/decl/spiral.anderson.html)
     - [Rust cheatsheet](https://upsuper.github.io/rust-cheatsheet/)
@@ -187,6 +198,7 @@ This is just what I managed to remember to put here.
 
 - [Lectures from W. Kahan on numerical precision](https://people.eecs.berkeley.edu/~wkahan/)
 - What Every Computer Scientist Should Know About Floating-Point Arithmetic - David Goldberg
+- [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/pdf/2408.10234)
 
 ##
 - **Electronics**
@@ -201,6 +213,11 @@ This is just what I managed to remember to put here.
 
 - **Machine Learning**
   - [Gail Weiss' page](https://gailweiss.github.io/index.html)
+  - [Roger Gross' notes on machine learning](https://www.cs.toronto.edu/~rgrosse/teaching.html)
+  - [Colah's page](https://colah.github.io/)
+    - [Neural Networks, Types, and Functional Programming](https://colah.github.io/posts/2015-09-NN-Types-FP/)
+  - [Vincent Abbott's page](https://www.vtabbott.io/)
+    - [Robust Diagrams for Deep Learning Architectures: Applications and Theory](https://www.vtabbott.io/content/files/2023/11/Robust-Diagrams-for-Deep-Learning-Architectures.pdf) 
   - [Mathematics of Neural Networks - Bart M. N. Smets](https://arxiv.org/pdf/2403.04807)
   - [Statistical Optimal Transport - Chewi, Rigollet, Niles-Weed](https://arxiv.org/pdf/2407.18163)
   - [What are embeddings?](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf)
@@ -208,6 +225,7 @@ This is just what I managed to remember to put here.
   - [Beyond Linear Response: Equivalence between Thermodynamic Geometry and Optimal Transport](https://arxiv.org/pdf/2404.01286)
   - [Modal's GPU Glossary](https://modal.com/gpu-glossary/device-software)
   - [Thinking Like Transformers - Weiss, Goldberg, Yahav](https://srush.github.io/raspy/)
+  - [Learning a Manifold of Fonts (Interactive Demo)](http://vecg.cs.ucl.ac.uk/Projects/projects_fonts/projects_fonts.html#interactive_demo)
 
 - **Computational Geometry**
   - [Keenan Crane's page](https://www.cs.cmu.edu/~kmcrane/)
@@ -247,6 +265,7 @@ This is just what I managed to remember to put here.
 
 ## Hacker's Folklore
   - [Tne Jargon Files](http://www.catb.org/~esr/jargon/html/index.html)
+  - [How to Become a Hacker](http://catb.org/~esr/faqs/hacker-howto.html)
   - [Andries E. Brouwer's page](https://aeb.win.tue.nl/)
     - [Hacker's Hut](https://aeb.win.tue.nl/linux/hh/)
   - [POC.GTFO](https://github.com/angea/pocorgtfo)
@@ -280,6 +299,16 @@ This is just what I managed to remember to put here.
   
 - [OpEn, optimization engine](https://alphaville.github.io/optimization-engine/)
 
+## Essays
+  - [The Brazilianization of the World](https://americanaffairsjournal.org/2021/05/the-brazilianization-of-the-world/)
+  - [A Terra sem mal, o paraíso Tupi-Guarani](https://tupi.fflch.usp.br/sites/tupi.fflch.usp.br/files/NAVARRO,%20E.A.%20A%20terra%20sem%20mal,%20o%20par%C3%A1iso%20tupi%20guarani..pdf)
+  - [Paixão por Israel: aspectos da judeofilia no protestantismo brasileiro e seus reflexos no cotidiano religioso do Brasil](https://andredanielreinke.com.br/paixao-por-israel-aspectos-da-judeofilia-no-protestantismo-brasileiro-e-seus-reflexos-no-cotidiano-religioso-do-brasil/)
+  - [Wokeness is not "a politics"](https://samkriss.substack.com/p/wokeness-is-not-a-politics)
+  - The Age of Artificial Intelligence: An Exploration (Essay book by Vernon Press)
+    - Human and Intelligent Machines: Co-Evolution, Fusion or Replacement? - David Pearce
+
+
+
 ## Misc
 
   - [The Epistemeology Page - Keith DeRose](https://campuspress.yale.edu/keithderose/the-epistemology-page/)
@@ -298,6 +327,7 @@ This is just what I managed to remember to put here.
   - Fotografien (1985-1998) - Jean Baudrillard
   - [L'harmonie des couleurs - Édouard Guichard](https://archive.org/details/gri_c00033125010881106)
   - [Poline color picker](https://meodai.github.io/poline/)
+  - Color: a viusal history from newton to modern color matching
   - [text-mode](https://text-mode.org/)
   - Pinturas de Rafael Hayashi, 2014-2023
 
@@ -343,6 +373,7 @@ This is just what I managed to remember to put here.
   - True Genius: The Life and Science of John Bardeen - Hoddeson, Daitch (yikes!)
   - Isaac Newton - James Gleick
   - The Great Physicists from Galileo to Einstein - George Gamow
+  - Genius Talk: Conversations With Nobel Scientists and Other Luminaries - Denis Brian
 
   - Feynman and the visualization of space-time processes - Silvan S. Schweber
   - John von Neumann's 1950s Change to Philosopher of Computation - Steven Meyer
